@@ -33,6 +33,9 @@ The all-in-one has minor problems, being that some feature may not be available 
 
 ### 5. Glossary
 
-### 6. Prototype
+### 6. Preferences
 
 @Figma https://www.figma.com/file/wM5qWZAbqBxEg7emrnTsgm/Prototype
+### 7. Clone
+https://github.com/manastungare/google-calendar-crx
+Clone reason: good-looking calendar,notified about schedule changes through app and email
